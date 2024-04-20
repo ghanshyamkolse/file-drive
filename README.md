@@ -41,3 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - folders
 - landing page
 - download file option
+- upload file option
